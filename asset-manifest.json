@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/m-portfolio/static/css/main.0394ac12.css",
+    "main.js": "/m-portfolio/static/js/main.11292181.js",
+    "static/media/me-about1.jpg": "/m-portfolio/static/media/me-about1.9339fc75f1bfaef20a18.jpg",
+    "static/media/me.png": "/m-portfolio/static/media/me.895661d1ef290ee68846.png",
+    "static/media/powerlite.jpg": "/m-portfolio/static/media/powerlite.6b1e2b9c39df2435494f.jpg",
+    "static/media/smash.jpg": "/m-portfolio/static/media/smash.5779fb3361c30751b6eb.jpg",
+    "static/media/cv.pdf": "/m-portfolio/static/media/cv.5fdefbc7194bf62bf6e9.pdf",
+    "static/media/laravel.jpg": "/m-portfolio/static/media/laravel.9704e50b2c63d88b815a.jpg",
+    "static/media/hr.jpg": "/m-portfolio/static/media/hr.83000ebd667c7422c7f0.jpg",
+    "static/media/amazon.jpg": "/m-portfolio/static/media/amazon.a0630ec9c1a591b8a71d.jpg",
+    "static/media/school.jpg": "/m-portfolio/static/media/school.8ea55990243df5020903.jpg",
+    "static/media/law_logo.jpg": "/m-portfolio/static/media/law_logo.586175d7d7444081423f.jpg",
+    "static/media/school_logo.jpg": "/m-portfolio/static/media/school_logo.b3ae1ec64fdf176c7489.jpg",
+    "index.html": "/m-portfolio/index.html",
+    "main.0394ac12.css.map": "/m-portfolio/static/css/main.0394ac12.css.map",
+    "main.11292181.js.map": "/m-portfolio/static/js/main.11292181.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0394ac12.css",
+    "static/js/main.11292181.js"
+  ]
+}
